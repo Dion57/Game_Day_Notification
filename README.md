@@ -45,7 +45,7 @@ game-day-notifications/
 │   └── gd_lambda_policy.json       # Lambda execution role permissions  
 ├── .gitignore  
 └── README.md                       # Project documentation  
-
+```
 Setup Instructions
 Clone the Repository
 
